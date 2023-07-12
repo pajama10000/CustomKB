@@ -3,14 +3,8 @@ This is my spigot plugin for changing knockback in minecraft.
 
 Contact me on discord/email to report bugs:
 
-Discord: Wesley_#0145
+Discord: pajama10000
 
-Email: booked1234512@gmail.com
+Email: pajamadevelopment@gmail.com
 
-Discord would be easier to reach me.
-
-Subscribe to booked61 on youtube and rate this plugin!
-
-Youtube - https://bit.ly/3dFPoDK
-
-Important video - https://bit.ly/3n8Sjru
+## For a in detail response email me, for a fast reposnse message me on discord
